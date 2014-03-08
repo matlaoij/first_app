@@ -10,3 +10,6 @@ This is my first application with Ruby on Rails !
 I followed this
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
+
+
+And so on and so forth
