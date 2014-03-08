@@ -12,4 +12,4 @@ I followed this
 by [Michael Hartl](http://michaelhartl.com/).
 
 
-And so on and so forth
+And so on and so forth, and so forth, and so forth, and so...
